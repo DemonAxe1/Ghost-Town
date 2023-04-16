@@ -30,9 +30,15 @@ Launch the program, display what the program does, give a warning on adding the 
 The user then enters the file name with the extension after, in this case "GhostTownPop.txt":  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/Python%202%202%20pop%20pic.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Example of GhostTownPop.txt:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/Python%20Ghost%20town%20pop%20txt%20file.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 The user is then prompted to enter the area file name, in this case "GhostTownArea.txt": <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/Python%202%204%20pop%20name%20enter2.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ Example of GhostTownArea.txt:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/Python%20Ghost%20town%20area%20txt%20file.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
@@ -43,6 +49,9 @@ The user is then prompted to enter a name for the file where the calculation of 
 <br />
 The program terminated and creates a file in the same folder with the name the user picks :  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/Python%202%206%20file%20created.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Example of GhostTownDens.txt:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/Python%20Ghost%20town%20dens%20txt%20file2.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
