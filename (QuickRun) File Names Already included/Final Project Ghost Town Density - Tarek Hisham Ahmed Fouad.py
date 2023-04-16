@@ -1,5 +1,5 @@
 ##############################################################################################################
-# Name: Tarek Hisham Ahmed Fouad
+# Name: DemonAxe
 #
 # This program reads 2 txt files (one is the population file and the other is the area file)
 # then asks the user to enter the name of the destination file. Then the density of the ghost
