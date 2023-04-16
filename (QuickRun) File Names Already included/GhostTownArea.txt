@@ -1,0 +1,17 @@
+Calico, California         2
+Rhyolite, Nevada           3
+Goldfield, Arizona         12
+St. Elmo, Colorado         4
+Terlingua, Texas           10
+Virginia City, Montana     5
+Nevada City, Montana       6
+Bodie, California          100
+Cahawba, Alabama           20
+Kennecott, Alaska          300
+Bannack, Montana           23
+South Pass City, Wyoming   3
+Centralia, Pennsylvania    6
+Thurmond, West Virginia    50
+Glenrio, Texas             1
+Glenrio, New Mexico        1
+Bulowville, Florida        60

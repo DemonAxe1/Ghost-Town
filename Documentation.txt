@@ -1,0 +1,19 @@
+Ghost Town Density
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Main idea:
+----------
+This program reads 2 .txt files and then uses the numbers from both files to calculate the density of a ghost town. 
+The first file GhostTownPop.txt holds the population of the ghost towns, and GhostTownArea.txt holds the area of land 
+of those ghost towns. Both files have the exact same town. The info is then gathered and calculated to get the density 
+of the ghost town and then written into a new .txt file that the user names.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User input:
+---------------
+The user is prompted with entering the file that contains the population, then the user is prompted with entering the 
+file with the area, and then lastly the user is prompted with entering the file name they desire the results to be saved in.
+Then once all that information is given the program goes line by line through the text documents grabbing the population 
+and area and calculating the density per ghost town. Then the program exits.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
